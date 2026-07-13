@@ -1,0 +1,9 @@
+phidata==2.7.10
+streamlit==1.42.0
+streamlit-chat==0.1.1
+deeplake==3.9.16
+langchain==0.3.18
+langchain-community==0.3.17
+openai==1.61.1
+tiktoken==0.7.0
+anthropic==0.47.1

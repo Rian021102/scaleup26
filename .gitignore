@@ -1,0 +1,14 @@
+# Secrets / local config
+.env
+*.env
+!.env.example
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Local Chroma persistence (legacy, pre-cloud)
+**/chroma_store.db/
